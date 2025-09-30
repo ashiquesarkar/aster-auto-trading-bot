@@ -32,6 +32,7 @@ First, you need to obtain API credentials from Aster DEX.
 <img width="956" height="328" alt="image" src="https://github.com/user-attachments/assets/7a2c5c3a-20fd-4b01-91bd-c19003f2befa" />
 
 1.  copy and past i give code ai and tell your stargy ang say ive me full code
+```bash
 import javax.crypto.Mac;
 import javax.crypto.spec.SecretKeySpec;
 import java.net.*;
@@ -140,7 +141,7 @@ public class UniversalTradingBotTemplate {
         System.out.println("Bot execution finished.");
     }
 }
-
+```
 3.  Create a Java file (e.g., `TradingBot.java`) inside the folder.   file name accoding to you i give just examle 
 4.  Paste your trading bot's Java code into this file. Ensure your trading strategy, API keys, and other configurations are correctly set within the code.
 5.  Compile the code to ensure there are no errors. You can ask an AI assistant for the correct compilation and run commands if needed. 
